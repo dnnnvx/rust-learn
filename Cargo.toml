@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "http_server",
+  "thread_pool",
+  "sha1_cracker",
+  "domain_scanner",
+]
